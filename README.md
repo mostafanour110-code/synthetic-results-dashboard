@@ -4,10 +4,14 @@
 
 Portfolio demo for Mostafa Ahmed. AI-assisted demo, not client work. No employer code, employer data, or real personal records are included.
 
-![Desktop results](screenshots/results-desktop.png)
+![Desktop results](2-dashboard-results-desktop.png)
 
-[Mobile results screenshot](screenshots/results-mobile.png)
+[Mobile results screenshot](3-dashboard-results-mobile.png)
  ليس تنفيذًا لنظام عميل، ولا يصلح للنشر الإنتاجي أو لاستيراد بيانات حقيقية. لا حسابات مستخدمين ولا Authentication. **لا تعرضه على الشبكة.**
+
+## Download and run
+
+The complete source, tests, sample workbook and TEST_RESULTS.md are in [the source ZIP](1-SyntheticResultsDashboard_Final_20261123.zip). Download and extract it, then open the inner SyntheticResultsDashboard folder before running the commands below. This repository publishes source code, not a hosted application.
 
 ## 1) المتطلبات والتقنيات والتراخيص
 
